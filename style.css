@@ -3,13 +3,13 @@
 }
 
 body{
-background-color: rgb(127, 234, 255);
+background-color: rgba(127, 234, 255, 0.301);
 }
 
 
 p{
     background-color: beige;
-    background-color: rgb(255, 0, 136);
+    background-color: rgb(239, 155, 200);
     text-align: center;
     padding: 10%;
     margin-left: 10%;
@@ -17,14 +17,13 @@ p{
 }
 
 nav{
-    background-color: rgb(0, 255, 55);
+    background-color: rgb(66, 241, 104);
     text-align: center;
     padding: 2%;
 }
 
 .giallo-bello-bello{
-    background-color: rgb(217, 255, 0);
-
+    background-color: rgb(236, 221, 64);
 }
 
 
