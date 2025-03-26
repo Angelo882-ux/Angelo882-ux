@@ -1,16 +1,9 @@
-body{
-background-image: url("OIP.jpg");
-background-repeat: no-repeat;
-background-size: cover;
+p{
+    font-size:0px;
 }
 
-p{background-color: rgba(20,40,50,0.5);
-color: aliceblue;
-}
-.classe-1{
-background-color: rgb(123, 204, 18);
-padding: 2%;
-}
+
+
 
 
 

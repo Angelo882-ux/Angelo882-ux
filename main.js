@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 //ciclo per
 for(let y = 0; y < 100; y++){
 console.log("Ha detto ciao per" + contatore + " volte");
@@ -22,12 +15,11 @@ console.log(numeroCasualeArr);
 
 }
 
-
 let centenitore = document.getElementById("contenitore");
 
 for (let index = 0; index < 15; index++){
 const nuovoElemento = documento.createElement("button");
-nuovoElemento.textConntext = index;
+nuovoElemento.textConntext = index // Correzione "TextContent" ai 
 nuovoElemento.style.TextAlign = "center"
 nuovoElemento.style.backgroundColor = "red"
 nuovoElemento.style.padding = "2"
