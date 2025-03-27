@@ -57,7 +57,7 @@ for(let index = 0; index < arrayImmagini.length; index++){
 
 
 
-
+    
 }
 
 

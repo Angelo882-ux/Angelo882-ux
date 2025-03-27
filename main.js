@@ -19,7 +19,7 @@ let centenitore = document.getElementById("contenitore");
 
 for (let index = 0; index < 15; index++){
 const nuovoElemento = documento.createElement("button");
-nuovoElemento.textConntext = index // Correzione "TextContent" ai 
+nuovoElemento.textConntext = index 
 nuovoElemento.style.TextAlign = "center"
 nuovoElemento.style.backgroundColor = "red"
 nuovoElemento.style.padding = "2"
